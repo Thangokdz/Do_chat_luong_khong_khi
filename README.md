@@ -25,4 +25,6 @@ The microcontroller processes the sensor data and:
 
 ## Images
 <img width="769" height="609" alt="Screenshot 2026-04-03 171544" src="https://github.com/user-attachments/assets/feb75793-3390-4ca2-9c9b-3250ece45574" />
-![z7687872055510_69d87c82fbf9a985d9410d9fc3eedff9](https://github.com/user-attachments/assets/4b44d812-1079-45f3-83b7-80238942777f)
+
+![z7687872055510_69d87c82fbf9a985d9410d9fc3eedff9](https://github.com/user-attachments/assets/00f38876-65ad-4f15-9224-952eea22d761)
+
